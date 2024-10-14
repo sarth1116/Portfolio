@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Expense Tracker",
+      "description": "Developed a user-friendly expense tracker application that allows users to manage their finances effectively.",
+      "image": "https://media.istockphoto.com/id/1342223620/photo/unrecognizable-afro-american-businessman-checking-family-expenses-using-digital-tablet.jpg?s=612x612&w=0&k=20&c=Etp5M7r8I-ZSEghJlvA7jY5mXSxYUPcBYpwmQ-n4rgo=",
+      "link": "https://expensetracker1010.netlify.app"
+      
+    },
+    {
+      "title": "To-Do List",
+      "description": "Created a simple To-Do List app that lets users add and delete tasks, with local storage for data persistence and an intuitive user interface.",
+      "image": "https://cdn.pixabay.com/photo/2017/07/20/16/10/list-2522751_640.jpg",
+      "link": "https://sarthakdaily.netlify.app"
+    },
+    {
+      "title": "Anime List (Api Calling)",
+      "description": "The Anime List component dynamically fetches and displays a collection of anime titles using the Jikan API.",
+      "image": "https://wallpapers.com/images/featured/one-piece-pictures-bjm9tdff9yzguoup.jpg",
+      "link": "animelist1010.netlify.app"
+    }
+   
+  ]
+  
